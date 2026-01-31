@@ -1,2 +1,5 @@
 hello, this is my 1st text
 hello this is the next line
+third line
+
+Forth line. I fixed some minor bugs.
