@@ -3,3 +3,5 @@ hello this is the next line
 third line
 
 Forth line. I fixed some minor bugs.
+
+Wanted to try out SSH way of pushing. So here it is. Another line!
